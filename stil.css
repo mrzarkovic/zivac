@@ -1,0 +1,75 @@
+div {
+  width: 1200px;
+  margin: 0 auto 0 auto;
+}
+
+ header {
+   background-color: rgb(9, 204, 247);
+   color: white;
+   background-image: url("img/bavaria.jpg");
+ }
+ header ul {
+   list-style-type: none;
+   overflow: auto;
+ }
+ header ul li {
+   display: inline-block;
+ }
+ header ul li a {
+   color: rgb(32, 104, 113);
+   background: white;
+   text-decoration: none;
+ }
+ header ul li a:hover {
+
+ }
+ article p{
+   background: rgb(5, 92, 130);
+   color: white;
+   padding: 20px 30px;
+   margin: 0;
+
+ }
+ section aside {
+   width: 200px;
+   float: left;
+   margin-right: 20px;
+ }
+ section article {
+   width: 980px;
+   float: left;
+
+ }
+ aside ul {
+   background:rgb(63, 69, 70);
+
+ }
+ aside ul li a {
+   color: white;
+ }
+ aside ul li a:hover {
+   color: #ccc;
+ }
+ article h2 {
+   margin: 0;
+ }
+ article h1 {
+   background: grey;
+   color: rgb(33, 198, 242);
+   margin-bottom: 0px;
+   font-size: 40px;
+   margin-top: 0px;
+   text-align: center;
+ }
+ header h1{
+   text-align: center;
+   color:rgb(16, 47, 64);
+   font-size: 50px;
+ }
+ article img {
+   float: left;
+
+ }
+ article img {
+    display: inline-block;
+    list-style-type: none;
